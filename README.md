@@ -19,6 +19,8 @@ buildscript {
 
 最新版本：[![](https://jitpack.io/v/coofee/RewritePlugin.svg)](https://jitpack.io/#coofee/RewritePlugin)
 
+> 注：针对动态加载代码的情况，可以使用 [ShadowApp](https://github.com/coofee/ShadowApp) 对系统服务进行运行时拦截，解决隐私方法访问问题。
+
 ## 2. 在`Application`项目中添加配置
 
 
